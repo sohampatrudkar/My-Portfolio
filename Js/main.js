@@ -37,7 +37,7 @@ navLink.forEach(n => n.addEventListener('click', linkAction)),
 
 $(document).ready(function () {
   var typed = new Typed('.typing', {
-    strings: ['Frontend Developer', 'UI Designer'],
+    strings: ['Frontend Developer', 'Backend Developer'],
     typeSpeed: 100,
     backSpeed: 60,
     loop: true,
